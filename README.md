@@ -9,7 +9,7 @@ The project focuses purely on **design, responsiveness, and user experience**, w
 ## 🌐 Live Demo
 
 🚀 Experience Musifyy live:  
-[Demo 🔗](rakmo33.github.io/Musifyy-Spotify-Clone/version3%20(javascript)/welcome.html)
+[Demo 🔗](./version3%20(javascript)/welcome.html)
 
 ---
 
